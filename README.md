@@ -25,15 +25,15 @@ This project implements a **hybrid super-resolution system** that enhances low-r
 
 ## 🏗️ Pipeline  
 Low-Resolution Image
-↓
+->
 Scene SR Model (global enhancement)
-↓
+->
 Face Detection (RetinaFace)
-↓
+->
 Face SR Model (local enhancement)
-↓
+->
 Adaptive Blending
-↓
+->
 High-Resolution Output
 
 
