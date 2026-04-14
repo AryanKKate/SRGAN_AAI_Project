@@ -1,4 +1,4 @@
-#🖼️ Image Enhancer : Super-Resolution using GANs
+# 🖼️ Image Enhancer : Super-Resolution using GANs
 
 ## 📌 Overview  
 This project implements a **hybrid super-resolution system** that enhances low-resolution images using **Generative Adversarial Networks (GANs)**. It combines **global scene enhancement** with **face-specific refinement** to generate visually realistic high-resolution outputs.
